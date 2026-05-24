@@ -15,7 +15,7 @@ st.set_page_config(page_title="Restaurant Analytics", page_icon="📊", layout="
 @st.cache_data
 def load_data():
     # 1. Load raw data
-    raw_df = pd.read_csv('../data/Dataset.csv') 
+    raw_df = pd.read_csv('data/Dataset.csv') 
     
     # 2. Create a clean copy
     df = raw_df.copy()
