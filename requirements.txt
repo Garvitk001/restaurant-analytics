@@ -1,7 +1,10 @@
-pandas numpy matplotlib seaborn scikit-learn streamlit
-folium plotly 
-go
-streamlit
 pandas
+folium 
+go
 plotly
 scikit-learn
+streamlit
+numpy
+matplotlib
+seaborn
+
