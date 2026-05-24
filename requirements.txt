@@ -1,10 +1,4 @@
+streamlit
 pandas
-folium 
-go
 plotly
 scikit-learn
-streamlit
-numpy
-matplotlib
-seaborn
-
