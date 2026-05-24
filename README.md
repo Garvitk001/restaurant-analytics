@@ -5,7 +5,7 @@
 An interactive, enterprise-grade data visualization and machine learning dashboard built with Streamlit. This application analyzes global restaurant data to uncover business insights, customer preferences, and predictive metrics.
 
 ## 🚀 Live Demo
-https://restaurantanalytics.streamlit.app/
+**[Click here to view the live dashboard!](https://paste-your-streamlit-link-here.com)**
 
 ## 📊 Project Structure
 
