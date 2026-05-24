@@ -1,0 +1,7 @@
+pandas numpy matplotlib seaborn scikit-learn streamlit
+folium plotly 
+go
+streamlit
+pandas
+plotly
+scikit-learn
